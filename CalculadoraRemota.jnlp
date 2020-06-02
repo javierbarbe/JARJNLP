@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="https://github.com/javierbarbe/JARJNLP.git" href="CalculadoraRemota.jnlp">
+
+<information>
+      <title>Mi calculadora</title>
+      <vendor>Javi</vendor>
+      <description>Una calculadora</description>
+</information>
+<resource>
+        <j2se version="8.0+"/>
+        <jar href="CalculadoraJNLP.jar"/>
+</resource>
+<application-desk main-class="CalculadoraPildoras">
+</application-desk>
+</jnlp>
